@@ -98,6 +98,9 @@ nav ul li a:hover {
     width: 100%;
     height: 100vh;
   }
+  .content {
+    margin-top: 300px;
+  }
   nav ul {
     display: none;
   }

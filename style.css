@@ -90,3 +90,18 @@ nav ul li a:hover {
   font-size: 16px;
   padding-left: 10px;
 }
+
+
+
+@media (max-width: 780px){
+  .wrapper {
+    width: 100%;
+    height: 100vh;
+  }
+  nav ul {
+    display: none;
+  }
+  .wrapper h1 {
+    font-size: 40px;
+  }
+}
